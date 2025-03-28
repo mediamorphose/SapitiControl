@@ -1,2 +1,2 @@
 # SapitiControl
-Sapiti
+Sapiti control client
